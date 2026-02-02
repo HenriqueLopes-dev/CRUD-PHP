@@ -1,0 +1,1 @@
+<?php require_once "../../crud_private/logout.php" ?>
